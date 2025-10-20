@@ -1,39 +1,41 @@
 {
+  "name": "agents-infrastructure-cloud",
+  "owner": "ai-pilo",
   "plugins": [
     {
       "name": "cloud-infrastructure",
       "version": "1.2.2",
-      "path": "plugins/cloud-infrastructure"
+      "source": "plugins/cloud-infrastructure"
     },
     {
       "name": "cicd-automation",
       "version": "1.2.2",
-      "path": "plugins/cicd-automation"
+      "source": "plugins/cicd-automation"
     },
     {
       "name": "kubernetes-operations",
       "version": "1.2.2",
-      "path": "plugins/kubernetes-operations"
+      "source": "plugins/kubernetes-operations"
     },
     {
       "name": "deployment-strategies",
       "version": "1.2.2",
-      "path": "plugins/deployment-strategies"
+      "source": "plugins/deployment-strategies"
     },
     {
       "name": "deployment-validation",
       "version": "1.2.2",
-      "path": "plugins/deployment-validation"
+      "source": "plugins/deployment-validation"
     },
     {
       "name": "database-cloud-optimization",
       "version": "1.2.2",
-      "path": "plugins/database-cloud-optimization"
+      "source": "plugins/database-cloud-optimization"
     },
     {
       "name": "full-stack-orchestration",
       "version": "1.2.2",
-      "path": "plugins/full-stack-orchestration"
+      "source": "plugins/full-stack-orchestration"
     }
   ]
 }
